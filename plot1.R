@@ -1,6 +1,7 @@
 #The code creates a histogram of Global Active Power in png format (480x480), with transparent backgrounds
 
 
+
 #Reading the txt file which is sperated by ';' and the NA's are '?'
 data <- read.table("household_power_consumption.txt",header= TRUE, sep =";",na.strings ="?")
 

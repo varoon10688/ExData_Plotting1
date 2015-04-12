@@ -1,4 +1,4 @@
-  # The code is used to create multiple plots orderd column wise
+  #The code is used to create multiple plots orderd column wise
   #Plot 1 - a line plot of Global Active Power vs Date
   #Plot 2 - a line plot of Sub_metering_1, Sub_metering_2, Sub_metering_3 vs Date. Multiple plots in the same graphics device
   #Plot 3 - a line plot of Voltage vs Date

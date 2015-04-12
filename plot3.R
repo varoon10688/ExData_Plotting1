@@ -2,6 +2,7 @@
 #Multiple plots in the same graphics device
 
 
+
 #Reading the txt file which is sperated by ';' and the NA's are '?'
 data <- read.table("household_power_consumption.txt",header= TRUE, sep =";",na.strings ="?")
 
